@@ -1,4 +1,4 @@
-TOKEN = '5921092231:AAHUR-Kx7ZvbLJfep-okRFuEebSlgJTLjTU'
+TOKEN = '#'
 
 keys = {
     'Доллар': 'USD',
